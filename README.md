@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Estrada</h1>
-<h3 align="center">A passionate backend developer from Ecuador</h3>
+<h3 align="center">A passionate software developer from Ecuador</h3>
 
 <p align="left"> <a href="https://twitter.com/javier_estrada7" target="blank"><img src="https://img.shields.io/twitter/follow/javier_estrada7?logo=twitter&style=for-the-badge" alt="javier_estrada7" /></a> </p>
 
